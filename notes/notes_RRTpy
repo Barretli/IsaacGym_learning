@@ -1,6 +1,0 @@
-import pygam
-from notes_RRTbase import RRT_Graph
-from notes_RRTbase import RRT_Map
-
-def main():
-  
